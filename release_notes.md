@@ -1,0 +1,25 @@
+# Changelog
+All notable changes to the NSWDesignSystem.sketch will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
+
+## [Unreleased]
+
+## [2.3.0] - 2019-11-29
+### Added 
+- Ressponsive smart symbol for `Mobile footer` component
+- Ressponsive smart symbol for `Tabs` component
+- Ressponsive smart symbol for `Footer` component
+
+## [2.2.1] - 2019-11-22
+### Changed 
+- Fix colour of text in dark `Footer`
+
+## [2.2.0] - 2019-11-15
+### Added
+- Colours for focus states
+
+### Changed
+- Fix `mobile menu` title colour
+- Fix line heights for text
+- Added `Mega menu` design
