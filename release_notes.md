@@ -1,9 +1,8 @@
-# Changelog
+# Change log
 All notable changes to the NSWDesignSystem.sketch will be documented in this file.
 
-#Change log
 
-##Version 2.4 [14 Fed 2020]
+## Version 2.4 [14 Fed 2020]
 
 - Renamed sitewide messages to global alerts
 - Changed glogal alert colours to be more inline with design system
@@ -27,7 +26,7 @@ All notable changes to the NSWDesignSystem.sketch will be documented in this fil
 - Updated tertiary blue to #0085B3 for accessibility
 - Updated colour contrast table with new tertiary blue
   
-##Version 2.3 [December 2019]
+## Version 2.3 [December 2019]
 - Fixed alignment issue with mobile header
 - Create footer as responsive smart symbol for both decktop and mobile
 - Updated tabs to be responsive smart symbol
@@ -68,7 +67,7 @@ All notable changes to the NSWDesignSystem.sketch will be documented in this fil
 - Updated colours to remove 21 non system colours
 - Updated tags to be responsive
 
-##Version 2.1 [October 2019]
+## Version 2.1 [October 2019]
 - Updated Design System to Sketch version 59.1 (to enable  Smart Layout)
 - Simplified cards to utilise Smart Layou
 - Added of white arrow for hero card
