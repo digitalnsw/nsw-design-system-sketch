@@ -1,7 +1,6 @@
 # Change log
 All notable changes to the NSWDesignSystem.sketch will be documented in this file.
 
-
 ## Version 2.4 [14 Fed 2020]
 
 - Renamed sitewide messages to global alerts
