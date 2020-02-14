@@ -1,85 +1,92 @@
 # Changelog
 All notable changes to the NSWDesignSystem.sketch will be documented in this file.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
+#Change log
 
-## [Unreleased]
+##Version 2.4 [14 Fed 2020]
 
-## [2.3.0] - 2019-11-29
-### Added 
-- Added responsive smart symbol for `Footer` components
-- Added responsive smart symbol for `Tabs` component
-- Added responsive smart symbol for `Footer` component
+- Renamed sitewide messages to global alerts
+- Changed glogal alert colours to be more inline with design system
+- Renamed global alert types to critical, default and light
+- Addition of white version of close icon
+- Fixed bug with callout heading not reacting correctly on resize
+- Updated text area to be 4 lines deep by default
+- Reduced H1 to 48px
+- Card headings changed to NSW Primary Blue as they are CTAs
+- Reduced border of checkbox and radio buttons to 1px
+- Fixed layout bug with text entry field and calendar picker
+- Removed shadows from example pages
+- Changed body line height from 1.25 to 1.5 and introduced condensed body at 1.25 (for smaller content blocks)
+- Updated example pages with new line heights
+- Fixed bugs with mobile hero pattern
+- Updated disabled state of checkbox and radio buttons
+- Updated error state of checkbox to allow error and focus at the same time
+- Updated label alignment to all form elements Updated validation fieldsets for checkbox and radio button sets
+- Added Creative Commons license details.
+- Change HR in footer to light40
+- Updated tertiary blue to #0085B3 for accessibility
+- Updated colour contrast table with new tertiary blue
+  
+##Version 2.3 [December 2019]
+- Fixed alignment issue with mobile header
+- Create footer as responsive smart symbol for both decktop and mobile
+- Updated tabs to be responsive smart symbol
+- Renamed "Mobile tabs" to "Tabs"
+- Removed all focus and hover states
+- Removal of links and buttons from in-page alerts
+- Introduction of red highlight to image cards
+- Update hero image and content
+- Update hero with smart layout
 
-### Changed
-- Fixed alignment issue with mobile `Header`
-- Renamed `Mobile tabs` to `Tabs`
-
-## [2.2.1] - 2019-11-22
-### Added
-- Added a new Text Style `2 - sm/default white`
-- Added a new Text Style `5 - xxxl/heading white`
-
-### Changed 
-- Changed 1rem to be 16px to align with industry standards and updated margins accordingly
-- Changed `Tertiary blue` to #009ED5 to allow use for focus states
-- Fixed colour of text in dark `Footer`
-- Fixed alignment bug with `Forms` text entry field, dropdown, calendar and text area
-- Fixed alignment bug with `Side nav`
-- Fixed padding on all `Buttons`
-- Removed 4px baseline `Grid` as not robustly achievable horizontally
-- Removed 21 non-system colours and replaced with standard
-- Renamed `Buttons` to use common labels
-- Updated mobile menu (removed 'Home' label, added close button to all levels, simplified menu items)
-- Updated desktop `Hero banner` to have the black or white background offset by 24px from the page body margin.
+  ##Version 2.2 [November 2019]
 - Updated main nav to allow chevrons to indicate mega menu
-- Updated `Examples of customisation` with new `Global navigation` symbol
-- Updated `Colour contrast chart` with new tertiary blue
+- Updated examples of customisation with new main nav symbol
+- Added selected state of main nav as new symbol
+- Added Mega menu
+- Updated mobile menu (removed 'Home' label, added close button to all levels, simplified menu items)
+- Updated desktop hero banner to have the black or white background offset by 24px from the page body margin.
+- Changed tertiary blue to #009ED5 to allow use for focus states
+- Updated colour contrast table to have #009ED5 for tertiary blue
 - Updated all focus colours
-- Updated `Typography` section to be more intuitive
-- Updated all line heights to 1.25 times font size
-- Updated all paragraph padding to 16px
-- Updated visited hyperlink colour
-- Updated appearance of disabled `Buttons`
-- Updated all `Buttons` to use smart layout
-- Updated hover state of white `Button` to be `Tertiary blue`
-- Updated disabled colour of `Radio buttons`, `Checkbox` and `Directional links` to be consistent with `Buttons` (`Light40`)
-- Updated `Tags` to be responsive
-
-## [2.2.0] - 2019-11-15
-### Added
-- Colours for focus states
-- Added `Mega menu` design
+- Removed 4px baseline grid as not robustly achievable  horizontally
+- Updated 1REM to be 16px to align with industry standards and updated margins accordingly.
 - Added UL, OL, DL, Abbreviation and Acronym
-- Added symbol for selected state of `Main navigation`
+- Updated Typography section to be more intuitive
+- Updated all line heights to 1.25 times font size.
+- Updated all paragraph padding to 16px
+- Addition of 2 - sm/default white
+- Addition of 5 - xxxl/heading white
+- Updated visited hyperlink colour
+- Updated disabled buttons to appear disabled
+- Updated all buttons to use common labels
+- Updated all buttons to work using smart layout
+- Updated hover of white button to be tertiary blue
+- Applied consistent padding to all buttons
+- Fixed alignment bug with text entry field, dropdown, calendar and text area
+- Fixed alignment bug with side nav
+- Updated disabled colour of radio buttons, checkbox and directional links to be consistent with buttons (Light40)
+- Updated colours to remove 21 non system colours
+- Updated tags to be responsive
 
-### Changed
-- Fix `mobile menu` title colour
-- Fix line heights for text
-
-## [2.1.0] - 2019-11-08
-### Added
-- Added auto layout instructions
-- Added white arrow symbol for `Hero card`
-
-### Changed
-- Renamed `NSW Primary Red` to `NSW Primary Highlight`
-- Renamed all grey colours in preparation for functional based colour tokens
-- Renamed status tick icon to `Success` to match naming convention based on functions and colours
-- Renamed states of `Accordion` to have correct capitalisation
-- Renamed symbols to meet a convention based on function
-- Removed duplicate `Buttons` and renamed to default and highlight
-- Removed redundant and hidden layers
-- Restructured tags, alerts, forms and nav folder structure to improve symbol findability
-- Restructured symbols to improve ordering and grouping
-- Replaced highlight strokes to Standardised widths
-- Replaced logos in `Header` with Symbol
-- Simplified cards to utilise Smart Layout
-- Simplified `Callout` to 1 symbol
+##Version 2.1 [October 2019]
+- Updated Design System to Sketch version 59.1 (to enable  Smart Layout)
+- Simplified cards to utilise Smart Layou
+- Added of white arrow for hero card
 - Simplified grid and apply to all examples
-- Updated `Colour contrast chart` to distiguish whether AA level passes for all text or for large text only
-- Updated all `Examples of customisation` to use symbols
+- Improved distinction between AA and AA for large text only in contrast analyser
+- Remade all examples to use symbols
+- Renamed all greys in preparation for functional based colour tokens
+- Updated ’NSW Primary Red’ to be ’NSW Primary Highlight’
+- Replaced table on mobile example page with mobile table
+- Replaced logos in header with Symbol
 - Updated arrow on photo card to be blue and update all example screens
-- Updated mobile example page to use `Mobile stacked` table
-- Updated search in `Header`
-- Updated file to support Sketch version 59.1 (to enable Smart Layout)
+- Standardised highlight stroke widths
+- General tidy up, removal of redundant and hidden layers
+- Removed capitols for states of the accordion
+- Changed status tick to success to be in alignment with functional naming and colour naming
+- Improved ordering, grouping and naming of symbols
+- Updated search in header
+- Added auto layout instructions
+- Removed duplicate buttons and renamed to default and highlight
+- Restructured tags, alerts, forms and nav folder structure to improve symbol findability
+- Simplified callout to 1 symbol
