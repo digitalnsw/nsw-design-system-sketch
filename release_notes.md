@@ -26,6 +26,7 @@ All notable changes to the NSWDesignSystem.sketch will be documented in this fil
 - Updated colour contrast table with new tertiary blue
   
 ## Version 2.3 [December 2019]
+
 - Fixed alignment issue with mobile header
 - Create footer as responsive smart symbol for both decktop and mobile
 - Updated tabs to be responsive smart symbol
@@ -36,7 +37,8 @@ All notable changes to the NSWDesignSystem.sketch will be documented in this fil
 - Update hero image and content
 - Update hero with smart layout
 
-  ##Version 2.2 [November 2019]
+## Version 2.2 [November 2019]
+
 - Updated main nav to allow chevrons to indicate mega menu
 - Updated examples of customisation with new main nav symbol
 - Added selected state of main nav as new symbol
@@ -67,6 +69,7 @@ All notable changes to the NSWDesignSystem.sketch will be documented in this fil
 - Updated tags to be responsive
 
 ## Version 2.1 [October 2019]
+
 - Updated Design System to Sketch version 59.1 (to enable  Smart Layout)
 - Simplified cards to utilise Smart Layou
 - Added of white arrow for hero card
