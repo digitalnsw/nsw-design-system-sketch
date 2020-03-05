@@ -2,49 +2,49 @@
 All notable changes to the NSWDesignSystem.sketch will be documented in this file.
 
 ## Version 2.5 [5 Mar 2020]
--Updated H3 to 24px (remapped from xl to lg) in desktop
--Updated H4 to 20px (remapped from lg to md) in desktop
--Updated H5 & H6 to 16px (remapped from md to sm) in desktop
--Updated H1 to 36px (remapped from xxxl to 2.25REM) in mobile
--Updated H2 to 28px (remapped from xxl to 1.75REM) in mobile
--Re-mapped xl to 26px
--Updated H3 to 22px (remapped from xl to lg) in mobile
--Updated H4 to 18px (remapped from 1g to md) in mobile
--Updated H5 & H6 to 16px (remapped from md to sm) in mobile
--Updated tags to be more in line with industry standard tags
--Updated tabs to use highlight colour for selected tab and blue text for inactive tabs
--Increased number of tabs in symbol to 10 based on user feedback
--Updated footer design based on feedback
--Updated number of footer links based on feedback
--Changed names of breakpoints to XS (Extra Small) format
--Updated grid examples to make it easier to snap to grid 
--Added clearer split vs. full gutter on website
--Updated examples of layouts (to fix existing errors)
--Updates size at which smaller fonts introduced to 992px
--Updates validation and error messages to be 14px (XS)
--Removed links with PDF icon and new window icon
--Updated breadcrumbs to be non bold 
--Updated footer based on WC feedback
--Updated accordion to always have a grey background for the header
--Updated cards based on feedback from WC
--Updated spacing in form elements to reflect build
--Updated font in validation from medium to bold to reflect build
--Updated side nav labels from medium to bold
--Removed XS and SM medium font as not available in build
--Updated main nav links to be black, to reflect build
--Updated spacing in mega menu to reflect build
--Added mobile dark version of hero pattern
--Updated in-page navigation to the highlight bar, instead of NSW Blue
--Updated tabs to the highlight bar instead of NSW Blue, updated spacing to reflect build and made clickable tabs NSW blue.
--Updated link list spacing to reflect build
--Updated mobile main menu to reflect build
--Updated spacing of direction links to reflect build
--Updated spacing of pagination to reflect build
--Update all examples with new spacing where appropriate
--Review all label for (blue) borders and (highlight colour) highlights correctly
--Updated card arrow to 20px, based on web consolidation feedback
--Update mobile screen sizes to <992
--Increased the font size of in-pave navigation, based on feedback from the web consolidation team
+- Updated H3 to 24px (remapped from xl to lg) in desktop 
+- Updated H4 to 20px (remapped from lg to md) in desktop
+- Updated H5 & H6 to 16px (remapped from md to sm) in desktop
+- Updated H1 to 36px (remapped from xxxl to 2.25REM) in mobile
+- Updated H2 to 28px (remapped from xxl to 1.75REM) in mobile
+- Re-mapped xl to 26px
+- Updated H3 to 22px (remapped from xl to lg) in mobile
+- Updated H4 to 18px (remapped from 1g to md) in mobile
+- Updated H5 & H6 to 16px (remapped from md to sm) in mobile
+- Updated tags to be more in line with industry standard tags
+- Updated tabs to use highlight colour for selected tab and blue text for inactive tabs
+- Increased number of tabs in symbol to 10 based on user feedback
+- Updated footer design based on feedback
+- Updated number of footer links based on feedback
+- Changed names of breakpoints to XS (Extra Small) format
+- Updated grid examples to make it easier to snap to grid 
+- Added clearer split vs. full gutter on website
+- Updated examples of layouts (to fix existing errors)
+- Updates size at which smaller fonts introduced to 992px
+- Updates validation and error messages to be 14px (XS)
+- Removed links with PDF icon and new window icon
+- Updated breadcrumbs to be non bold 
+- Updated footer based on WC feedback
+- Updated accordion to always have a grey background for the header
+- Updated cards based on feedback from WC
+- Updated spacing in form elements to reflect build
+- Updated font in validation from medium to bold to reflect build
+- Updated side nav labels from medium to bold
+- Removed XS and SM medium font as not available in build
+- Updated main nav links to be black, to reflect build
+- Updated spacing in mega menu to reflect build
+- Added mobile dark version of hero pattern
+- Updated in-page navigation to the highlight bar, instead of NSW Blue
+- Updated tabs to the highlight bar instead of NSW Blue, updated spacing to reflect build and made clickable tabs NSW blue.
+- Updated link list spacing to reflect build
+- Updated mobile main menu to reflect build
+- Updated spacing of direction links to reflect build
+- Updated spacing of pagination to reflect build
+- Update all examples with new spacing where appropriate
+- Review all label for (blue) borders and (highlight colour) highlights correctly
+- Updated card arrow to 20px, based on web consolidation feedback
+- Update mobile screen sizes to <992
+- Increased the font size of in-pave navigation, based on feedback from the web consolidation team
 
 ## Version 2.4 [14 Fed 2020]
 
