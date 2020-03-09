@@ -1,6 +1,13 @@
 # Change log
 All notable changes to the NSWDesignSystem.sketch will be documented in this file.
 
+## Version 2.6 [9 Mar 2020]
+- Updated increments in sidenav pattern increased to 16px per indent in response to feedback from the Web Consolidation team
+- Removed chevrons from side nav
+- Removed original version of mobile breadcrumb following user testing results
+- Updated hamburger menu based on user testing results 
+- Removed masthead from mobile menu
+
 ## Version 2.5 [5 Mar 2020]
 - Updated H3 to 24px (remapped from xl to lg) in desktop 
 - Updated H4 to 20px (remapped from lg to md) in desktop
