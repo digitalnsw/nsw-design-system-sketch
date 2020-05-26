@@ -1,14 +1,14 @@
 # Change log
 All notable changes to the NSWDesignSystem.sketch will be documented in this file.
 
-## Version 2.6 [9 Mar 2020]
+## Version 2.6 [9 March 2020]
 - Updated increments in sidenav pattern increased to 16px per indent in response to feedback from the Web Consolidation team
 - Removed chevrons from side nav
 - Removed original version of mobile breadcrumb following user testing results
 - Updated hamburger menu based on user testing results 
 - Removed masthead from mobile menu
 
-## Version 2.5 [5 Mar 2020]
+## Version 2.5 [5 March 2020]
 - Updated H3 to 24px (remapped from xl to lg) in desktop 
 - Updated H4 to 20px (remapped from lg to md) in desktop
 - Updated H5 & H6 to 16px (remapped from md to sm) in desktop
@@ -30,7 +30,7 @@ All notable changes to the NSWDesignSystem.sketch will be documented in this fil
 - Updates size at which smaller fonts introduced to 992px
 - Updates validation and error messages to be 14px (XS)
 - Removed links with PDF icon and new window icon
-- Updated breadcrumbs to be non bold 
+- Updated breadcrumbs to be non-bold 
 - Updated footer based on WC feedback
 - Updated accordion to always have a grey background for the header
 - Updated cards based on feedback from WC
@@ -53,10 +53,10 @@ All notable changes to the NSWDesignSystem.sketch will be documented in this fil
 - Update mobile screen sizes to <992
 - Increased the font size of in-pave navigation, based on feedback from the web consolidation team
 
-## Version 2.4 [14 Fed 2020]
+## Version 2.4 [14 February 2020]
 
 - Renamed sitewide messages to global alerts
-- Changed glogal alert colours to be more inline with design system
+- Changed global alert colours to be more in line with design system
 - Renamed global alert types to critical, default and light
 - Addition of white version of close icon
 - Fixed bug with callout heading not reacting correctly on resize
@@ -71,7 +71,8 @@ All notable changes to the NSWDesignSystem.sketch will be documented in this fil
 - Fixed bugs with mobile hero pattern
 - Updated disabled state of checkbox and radio buttons
 - Updated error state of checkbox to allow error and focus at the same time
-- Updated label alignment to all form elements Updated validation fieldsets for checkbox and radio button sets
+- Updated label alignment to all form elements 
+- Updated validation fieldsets for checkbox and radio button sets
 - Added Creative Commons license details.
 - Change HR in footer to light40
 - Updated tertiary blue to #0085B3 for accessibility
@@ -80,7 +81,7 @@ All notable changes to the NSWDesignSystem.sketch will be documented in this fil
 ## Version 2.3 [December 2019]
 
 - Fixed alignment issue with mobile header
-- Create footer as responsive smart symbol for both decktop and mobile
+- Create footer as responsive smart symbol for both desktop and mobile
 - Updated tabs to be responsive smart symbol
 - Renamed "Mobile tabs" to "Tabs"
 - Removed all focus and hover states
@@ -123,7 +124,7 @@ All notable changes to the NSWDesignSystem.sketch will be documented in this fil
 ## Version 2.1 [October 2019]
 
 - Updated Design System to Sketch version 59.1 (to enable  Smart Layout)
-- Simplified cards to utilise Smart Layou
+- Simplified cards to utilise Smart Layout
 - Added of white arrow for hero card
 - Simplified grid and apply to all examples
 - Improved distinction between AA and AA for large text only in contrast analyser
