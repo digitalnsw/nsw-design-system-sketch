@@ -1,6 +1,6 @@
-:warning: | The NSW Design System Sketch library will soon be deprecated as we transition to Figma.
+:warning: | The NSW Design System is moving from Sketch to Figma from version 2.7.
 :---: | :---
-:information_source: | If you would like access to our beta Figma library, join our [designer and developer community](https://community.digital.nsw.gov.au/)
+:information_source: | We are currently testing our figma library. If you would like access, join our [designer and developer community](https://community.digital.nsw.gov.au/)
 
 <p align="center">
   <img src="https://www.nsw.gov.au/sites/default/files/2020-07/NSW-Government-official-logo.jpg" height="256" />
